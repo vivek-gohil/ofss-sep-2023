@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE note[
+<!ELEMENT note (to,from,heading,body,message)>
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT heading (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+<!ELEMENT message (#PCDATA)>
+]>
+<note>
+	<to>Vivek</to>
+	<from>Samarth</from>
+	<heading>Reminder</heading>
+	<body>Greetings</body>
+	<message>Training Starts At 9:30</message>
+</note>

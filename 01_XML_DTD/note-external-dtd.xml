@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE note SYSTEM "note.dtd" >
+<note>
+  <to>Vivek</to>
+  <from>Samarth</from>
+  <heading>Reminder</heading>
+  <body>Geetings</body>
+  <message>Training starts at 9:30</message>
+</note>

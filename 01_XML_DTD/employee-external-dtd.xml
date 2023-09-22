@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employee SYSTEM "employee.dtd" >
+<employee>
+	<id>101</id>
+	<name>Test</name>
+	<salary>1000</salary>
+	<phone>123456789</phone>
+	<!-- <email>ghl_vivek@test.com</email> -->
+	<address>
+		<block>B-321</block>
+		<street>MG Road</street>
+		<city>Mumbai</city>
+		<pin>400012</pin>
+	</address>
+</employee>

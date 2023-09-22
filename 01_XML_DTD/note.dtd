@@ -1,0 +1,6 @@
+<!ELEMENT note (to,from,heading,body,message)>
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT heading (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+<!ELEMENT message (#PCDATA)>
